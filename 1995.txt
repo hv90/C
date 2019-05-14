@@ -1,0 +1,273 @@
+
+Ord.	Intérprete - Música
+1	2 Unlimited - Do What's Good For Me
+2	2 Unlimited - Nothing Like The Rain
+3	20 Fingers & Roula - Lick It
+4	2Pac - Dear Mama 
+5	4PM - Sukiyaki
+6	740 Boyz Feat. 2 In A Room - Shimmy Shake
+7	Ace Of Base - Beautiful Life
+8	Ace Of Base - Lucky Love
+9	Activate - A Say What I Want
+10	Adam Feat. Amy - Zombie
+11	Adina Howard - Freak Like Me
+12	Alanis Morissette - Hand In My Pocket
+13	Alanis Morissette - You Oughta Now
+14	Alexia & Double You - Me And You
+15	All-4-One - I Can Love You Like That
+16	Alter Ego Feat. Daisy Dee - Dance (If You Cannot)
+17	Andrew Sixty - Diana
+18	Andru Donalds - Mishale (Remix)
+19	Annie Lennox - A Whiter Shade Of Pale
+20	Annie Lennox - No More "I Love Yous"
+21	Asa de Águia - Pra lá de Bragadá
+22	Asa de Águia - Xô Satanás
+23	Backstreet Boys - We've Got It Goin' On
+24	Bananarama - Every Shade Of Blue
+25	Banda Eva - Coleção
+26	Banda Eva - Me abraça
+27	Barão Vermelho - Daqui por diante
+28	Better Than Ezra - Good
+29	Blackstreet - Before I Let You Go
+30	Blessid Union Of Souls - I Believe
+31	Blessid Union Of Souls - Let Me Be The One
+32	Blues Traveler - Run-Around
+33	Blur - Country House
+34	Bob Marley - Keep On Moving
+35	Bon Jovi - Someday I'll Be Saturday Night
+36	Bon Jovi - Something For The Pain
+37	Bon Jovi - This Ain't A Love Song
+38	Boyz II Men - Thank You
+39	Boyz II Men - Water Runs Dry
+40	Brandy - Baby
+41	Brandy - Brokenhearted
+42	Brownstone - If You Love Me
+43	Bryan Adams - Have You Ever Really Loved A Woman?
+44	C & C Music Factory - Take A Toke
+45	Caetano Veloso - O calhambeque
+46	Caught In The Act - Love Is Everywhere
+47	CDB - Let's Groove
+48	Celine Dion - Think Twice
+49	Chack - Summer Party
+50	Chico César - Mama África
+51	Cidade Negra - Luta de classes
+52	Collective Soul - December
+53	Colour - Heat Of The Night
+54	Coolio Feat. LV - Gangsta's Paradise
+55	Corona - Baby Baby
+56	Corona - The Rhythm Of The Night
+57	Corona - Try Me Out
+58	Cotto's Club Sandwich - The Winner Takes It All
+59	Culture Beat - Inside Out
+60	Da Blitz - Movin' On
+61	Dana Dawson - 3 Is Family
+62	Dave Matthews Band - Ants Marching
+63	Dave Matthews Band - What Would You Say
+64	Deep Blue Something - Breakfast At Tiffany's
+65	Del Amitri - Roll To Me
+66	Delegation - I Wanna Be The Winner
+67	Des'ree - Feel So High
+68	Diana King - Shy Guy
+69	Dionne Farris - I Know
+70	DJ Bobo - Everybody
+71	DJ Bobo - Freedom
+72	DJ Bobo - I Feel It
+73	DJ Bobo - Love Is All Around
+74	DJ Company - Holiday In The Land Of Love
+75	Double Vision - Knockin'
+76	Double You - Because I'm Loving You
+77	Double You - Dancing With An Angel
+78	Double You - Run To Me
+79	Double You - She's Beautiful
+80	Double You - That's The Way (I Like It)
+81	Double You - What Did You Do?
+82	Dr. Alban - This Time I'm Free
+83	Dr. Dre - Keep Their Heads Ringin'
+84	É o Tchan! - É o Tchan!
+85	É o Tchan! - Paquerei
+86	East 17 - Stay Another Day
+87	Elton John - Believe
+88	E-Rotic - Max Don't Have Sex With Your Ex
+89	Faith No More - Diggin' The Grave
+90	Fanzine - Uma história de amor
+91	Fernanda Abreu - A lata
+92	Fernanda Abreu - Babilônia Rock
+93	Fernanda Abreu - Garota sangue bom
+94	Fernanda Abreu - Veneno da lata
+95	Firehouse - I Live My Life For You
+96	Fourteen - Don't Leave Me
+97	French Junior - I Feel So Good
+98	Frente - Bizarre Love Triangle
+99	Fun Factory - I Wanna B With U
+100	Gabriel O Pensador - Rabo de saia
+101	General Base - I See You
+102	Gianluca Grignani - La Mia Storia Tra Le Dita
+103	Gin Blossoms - Til I Hear It From You
+104	Giovanni - Girl In My Eyes
+105	Gloria Estefan - Everlasting Love
+106	Gloryland - Power Of Love
+107	Gompie - Alice (Who The Fuck Is Alice?)
+108	Goo Goo Dolls - Name
+109	Gottsha - Breakout
+110	Green Day - When I Come Around
+111	Groove Theory - Tell Me
+112	Guilherme Arantes - Trilhas (Traces)
+113	Guns N' Roses - Simpathy For The Devil
+114	Haddaway - Catch A Fire
+115	Haddaway - Fly Away
+116	Hootie & The Blowfish - Hold My Hand
+117	Hootie & The Blowfish - Let Her Cry
+118	Hootie & The Blowfish - Only Wanna Be With You
+119	Indiana - All I Need Is Love
+120	Inner Circle - Black Roses
+121	Ivan Lins - Lembra de mim
+122	Jade - Everyday Of The Week
+123	Jam And Spoon - Angel
+124	Jamie Dee - Dreaming Blue
+125	Jamie Walters - Hold On
+126	Jamiroquai - Space Cowboy
+127	Janet Jackson - Runaway
+128	Joe Salinas - Let Me Say I Do
+129	Joe Salinas - People Talking
+130	Jon B. - Pretty Girl
+131	Jon B. Feat. Babyface - Someone To Love
+132	Jon Secada - Mental Picture
+133	La Bouche - Be My Lover
+134	Laura Pausini - La Solitudine/La Soledad
+135	Laura Pausini - Se Fue
+136	Lisa Loeb & Nine Stories - Do You Sleep?
+137	Little Pigs - Who's Affraid Of The Big Wolf?
+138	Live - Lightning Crashes 
+139	Livin' Joy - Dreamer
+140	Lobão - A queda
+141	Lulu Santos - Descobridor dos sete mares
+142	Lulu Santos - Fullgás
+143	Lulu Santos - Sereia
+144	Madonna - Bedtime Story
+145	Madonna - Take A Bow
+146	Madonna - You'll See
+147	Mamonas Assassinas - Bois Don't Cry
+148	Mamonas Assassinas - Chopis Centis
+149	Mamonas Assassinas - Lá vem o alemão
+150	Mamonas Assassinas - Mundo animal
+151	Mamonas Assassinas - Pelados em Santos
+152	Mamonas Assassinas - Sábado de sol
+153	Mamonas Assassinas - Sabão crá crá
+154	Mamonas Assassinas - Vira-vira
+155	Mariah Carey - Fantasy
+156	Marillion - Beautiful
+157	Marina Lima - Nem luxo, nem lixo
+158	Martin Page - In The House Of Stone And Light
+159	Mary J. Blige - Be Happy
+160	Masterboy - Anybody
+161	Masterboy - Generation Of Love
+162	Masterboy - I Got To Give It Up
+163	Masterboy - Is This The Love
+164	Max A Million - Fat Boy
+165	Max A Million - Take Your Time (Do It Right)
+166	Me & My - Dub I Dub
+167	Meat Loaf - I'd Lie For You
+168	Melissa Etheridge - If I Wanted To
+169	Melissa Etheridge - Your Little Secret
+170	Method Man with Mary J. Blige - I'll Be There For You / You're All I Need
+171	Michael Jackson - You Are Not Alone
+172	Michael Jackson & Janet Jackson - Scream 
+173	Mike & The Mechanics - Another Cup Of Coffee
+174	Mike & The Mechanics - Over My Shoulder
+175	MoKenStef - He's Mine
+176	Molella - If You Wanna Party
+177	Monica - Don't Take It Personal (Just One Of Dem Days)
+178	Montell Jordan - This Is How We Do It
+179	N. B. G. - Don't Go Away From Love
+180	Natalie Merchant - Carnival
+181	Naughty By Nature - Feel Me Flow
+182	Nicki French - Did You Ever Really Love Me?
+183	Nicki French - Stop! In The Name Of Love
+184	Nicki French - Total Eclipse Of The Heart
+185	Novecento - Day And Night
+186	N-Trance - Set You Free
+187	N-Trance - Stayn' Alive
+188	Oasis - Some Might Say
+189	Paralamas do Sucesso - Luiz Inácio (300 picaretas)
+190	Paralamas do Sucesso - Uma brasileira
+191	Paula Abdul - My Love Is For Real
+192	Pearl Jam - Better Man
+193	Pet Shop Boys - Paniraro 95
+194	Planet Hemp - Legalize já
+195	Planet Hemp - Mantenha o respeito
+196	Playahitty - 1, 2, 3! (Train With Me)
+197	Queen - Heaven For Everyone
+198	R.E.M. - Bang And Blame
+199	R.E.M. - Crush With Eyeliner
+200	Radiohead - Fake Plastic Tree
+201	Radiorama - Let Me Be
+202	Raffi - Sentimiento
+203	Raimundos - I Saw You Saying
+204	Real McCoy - Come And Get Your Love
+205	Real McCoy - Run Away
+206	Red Box - Lean On Me (Ah-Li-Ayo)
+207	Red Velvet - Lady Don't Cry
+208	Rednex - Cotton Eye Joe
+209	Rednex - Old Pop In An Oak
+210	Rednex - Wish You Were Here
+211	Renato Russo - La Forza Della Vita
+212	Renato Russo - La Solitudine
+213	Renato Russo - Strani Amori
+214	Richy - Set Me Free
+215	Robyn - Do You Really Want Me (Show Respect)
+216	Rochelle - Think Twice
+217	Roman Photo - Sounds Of Summer
+218	Roxette - June Afternoon
+219	Roxette - You Don't Understand Me
+220	Scatman John - Scatman
+221	Scatman John - Scatman World's
+222	Seal - Kiss From A Rose
+223	Selena - Dreaming Of You
+224	Selena - I Could Fall In Love
+225	Serena - Ridin' High
+226	Shaggy - Boombastic
+227	Shaggy - In The Summertime
+228	Sheryl Crow - Can't Cry Anymore
+229	Sheryl Crow - D'yer Mak'er
+230	Sheryl Crow - Strong Enough
+231	Simone - Então é Natal
+232	Simonny - Primeiros erros
+233	Simply Red - Fairground
+234	Skank - Amolação
+235	Skank - O beijo e a reza
+236	Sophie B. Hawkins - As I Lay Me Down
+237	Soul Asylum - Misery
+238	Soul For Real - Every Little Thing I Do
+239	Soul For Real - Candy Rain
+240	Supergrass - Alright
+241	Take That - Back For Good
+242	Take That - Never Forget
+243	Taleesa - Burning Up
+244	Tatjana - Santa Maria
+245	The Eagles - Love Will Keep Us Alive
+246	The Notorious B.I.G. - One More Chance
+247	The Outhere Brothers - Boom Boom Boom
+248	The Rembrandts - I'll Be There For You
+249	The Rolling Stones - Like A Rolling Stone
+250	Titãs - Domingo
+251	Titãs - Eu não aguento
+252	Titãs - Eu não vou dizer nada
+253	TLC - Creep
+254	TLC - Red Light Special
+255	TLC - Waterfalls
+256	TLC - Diggin' On You
+257	Tom Petty & The Heartbreakers - You Don't Know How It Feels
+258	Toni Braxton - I Belong To You
+259	Total Feat. The Notorious B.I.G. - Can't You See
+260	U2 - Hold Me, Thrill Me, Kiss Me, Kill Me
+261	Van Halen - Can't Stop Loving You
+262	Vanessa Williams - The Sweetest Days
+263	Vanessa Williams - Colors Of The Wind
+264	Vangelis - Conquest Of Paradise
+265	Venus - Amores Extraños
+266	Vinny - Tanto faz
+267	Whigfield - Big Time
+268	Whigfield - Think Of You
+269	Whitney Houston - Exhale (Shoop Shoop)
+270	Xscape - Who Can I Run To
+271	Ziggy Marley & The Melody Makers - The Power To Move Ya

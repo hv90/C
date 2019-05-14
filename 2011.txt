@@ -1,0 +1,394 @@
+1	Rolling In The Deep	-	Adele	-	560
+2	Talking To The Moon	-	Bruno Mars	-	533
+3	On The Floor	-	Jennifer Lopez Feat. Pitbull	-	500
+4	Last Friday Night (T.G.I.F.)	-	Katy Perry	-	488
+5	Rabiosa	-	Shakira Feat. Pitbull	-	473
+6	Just Can't Get Enough	-	Black Eyed Peas	-	464
+7	Judas	-	Lady GaGa	-	444
+8	Onde estiver	-	NX Zero part. Freddie Gibbs	-	444
+9	Fuckin' Perfect	-	P!nk	-	437
+10	The Lazy Song	-	Bruno Mars	-	429
+11	S&M	-	Rihanna	-	428
+12	I Don't Know What To Do	-	Tiko's Groove Feat. Gosha	-	427
+13	Till The World Ends	-	Britney Spears	-	420
+14	Born This Way	-	Lady GaGa	-	419
+15	E.T.	-	Katy Perry	-	418
+16	I Wanna Go	-	Britney Spears	-	417
+17	Don't Stop The Party	-	Black Eyed Peas	-	412
+18	Give Me Everything (Tonight)	-	Pitbull Feat. Ne-Yo, Afrojack & Nayer	-	412
+19	California King Bed	-	Rihanna	-	407
+20	Price Tag	-	Jessie J Feat. B.o.B	-	407
+21	Firework	-	Katy Perry	-	400
+22	Party Rock Anthem	-	LMFAO Feat. Lauren Bennett & Goonrock	-	381
+23	The Time (The Dirty Bit)	-	Black Eyed Peas Feat. Afrojack	-	359
+24	The Edge Of Glory	-	Lady GaGa	-	354
+25	Beautiful People	-	Chris Brown Feat. Benny Benassi	-	336
+26	Next 2 U	-	Chris Brown Feat. Justin Bieber	-	335
+27	É preciso (A próxima parada)	-	Jota Quest	-	332
+28	Who's That Chick?	-	David Guetta Feat. Rihanna	-	327
+29	Moves Like A Jagger	-	Maroon 5 Feat. Christina Aguilera	-	322
+30	Every Teardrop Is A Waterfall	-	Coldplay	-	320
+31	Grenade	-	Bruno Mars	-	319
+32	Até o fim	-	Strike	-	310
+33	Barbra Streisand	-	Duck Sauce	-	310
+34	Sou eu	-	Fiuk	-	298
+35	Não é normal	-	NX Zero	-	293
+36	A doida	-	Seu Jorge	-	292
+37	You And I	-	Lady GaGa	-	290
+38	Best Thing I Never Had	-	Beyoncé	-	288
+39	Written In The Stars	-	Tinie Tempah Feat. Eric Turner	-	287
+40	Hold It Against Me	-	Britney Spears	-	285
+41	Just The Way You Are	-	Bruno Mars	-	285
+42	Lighters	-	Bad Meets Evil Feat. Bruno Mars	-	284
+43	Yeah 3X (Yeah Yeah Yeah)	-	Chris Brown	-	282
+44	Hello	-	Martin Solveig & Dragonette	-	279
+45	What The Hell	-	Avril Lavigne	-	279
+46	Cheers (Drink To That)	-	Rihanna	-	273
+47	Mr. Saxobeat	-	Alexandra Stan	-	273
+48	Planos impossíveis	-	Manu Gavassi	-	270
+49	Vou cantar	-	Restart	-	269
+50	Loca	-	Shakira Feat. Dizzee Rascal or El Cata	-	269
+51	Welcome To St. Tropez	-	DJ Antoine Vs Timati Feat. Kalenna	-	268
+52	Take Over Control	-	Afrojack Feat. Eva Simons	-	262
+53	You Make Me Feel	-	Cobra Starship Feat. Sabi	-	258
+54	Smile	-	Avril Lavigne	-	258
+55	What's My Name?	-	Rihanna Feat. Drake	-	255
+56	Like A G6	-	Far*East Movement Feat. Cataracs & Dev	-	250
+57	U Smile	-	Justin Bieber	-	248
+58	Someone Like You	-	Adele	-	245
+59	Um cara de sorte	-	Detonautas	-	235
+60	The Adventures Of Rain Dance Maggie	-	Red Hot Chili Peppers	-	231
+61	Run The World (Girls)	-	Beyoncé	-	228
+62	Without You	-	David Guetta Feat. Usher	-	225
+63	Higher	-	Taio Cruz Feat. Kylie Minogue & Travie McCoy	-	222
+64	Quando o amor bate à porta	-	Chimarruts	-	218
+65	Where Dem Girls At?	-	David Guetta Feat. Flo Rida & Nicki Minaj	-	218
+66	Como se sente	-	Capital Inicial	-	218
+67	Sweat (David Guetta Remix)	-	Snoop Dogg	-	216
+68	Rocketeer	-	Far*East Movement Feat. Ryan Tedder	-	216
+69	More	-	Usher	-	215
+70	Vida ou morte	-	CPM 22	-	210
+71	Eu sei	-	Fresno	-	208
+72	We R Who We R	-	Ke$ha	-	207
+73	We Found Love	-	Rihanna Feat. Calvin Harris	-	206
+74	Fly	-	Nicki Minaj Feat. Rihanna	-	205
+75	Paradise	-	Coldplay	-	202
+76	Me acorde pra vida	-	CW7	-	196
+77	Criminal	-	Britney Spears	-	194
+78	Stereo Hearts	-	Gym Class Heroes Feat. Adam Levine	-	191
+79	Quero toda noite	-	Fiuk part. Jorge Ben Jor	-	189
+80	Pra você lembrar	-	Restart	-	189
+81	Tendo a lua (Ao vivo)	-	Paralamas do Sucesso part. Pitty	-	187
+82	Never Say Never	-	Justin Bieber Feat. Jaden Smith	-	187
+83	Presença (Ao vivo)	-	Skank part. Emicida	-	185
+84	Only Girl (In The World)	-	Rihanna	-	184
+85	I Do	-	Colbie Caillat	-	178
+86	De repente	-	Skank	-	177
+87	I'm Into You	-	Jennifer Lopez Feat. Lil Wayne	-	175
+88	Whip My Hair	-	Willow Smith	-	172
+89	Céu azul	-	Charlie Brown Jr.	-	170
+90	I Can't Get Nothing	-	Tiko's Groove Feat. Gosha	-	170
+91	As cores (Ao vivo)	-	Cine	-	166
+92	Sticky Dough	-	Wanessa	-	164
+93	Just A Dream	-	Nelly	-	160
+94	Good Feeling	-	Flo Rida	-	159
+95	It Will Rain	-	Bruno Mars	-	158
+96	Em choque	-	Cine	-	158
+97	Love You Like A Love Song	-	Selena Gomez & The Scene	-	154
+98	She Ain't You	-	Chris Brown	-	148
+99	Love Drunk	-	Boys Like Girls	-	147
+100	Do lado de cá	-	Chimarruts	-	147
+101	Menina estranha	-	Restart	-	145
+102	Blow	-	Ke$ha	-	145
+103	Garoto errado	-	Manu Gavassi	-	144
+104	Who Dat Girl	-	Flo Rida Feat. Akon	-	137
+105	Save The World	-	Swedish House Mafia Feat. John Martin	-	130
+106	Mistletoe	-	Justin Bieber	-	128
+107	Hospital do Sofredor	-	CPM 22	-	126
+108	Só agora	-	Pitty	-	125
+109	Porto Alegre	-	Fresno	-	121
+110	Tonight (I'm Lovin' You)	-	Enrique Iglesias Feat. Ludacris & DJ Frank E	-	120
+111	How To Love	-	Lil Wayne	-	119
+112	Club Can't Handle Me	-	Flo Rida Feat. David Guetta	-	119
+113	DJ Got Us Falling In Love Again	-	Usher Feat. Pitbull	-	114
+114	The One That Got Away	-	Katy Perry	-	113
+115	Stuck On Repeat	-	Wanessa	-	113
+116	Dynamite	-	Taio Cruz	-	112
+117	Dançando	-	Agridoce	-	111
+118	Don't Wanna Go Home	-	Jason DeRulo	-	99
+119	Sexy And I Know It	-	LMFAO	-	98
+120	Teenage Dream	-	Katy Perry	-	98
+121	Love The Way You Lie	-	Eminem Feat. Rihanna	-	98
+122	Jet Lag	-	Simple Plan Feat. Natasha Bedingfield	-	97
+123	Sale El Sol	-	Shakira	-	96
+124	Meu mundo	-	Restart	-	95
+125	Airplanes	-	B.o.B Feat. Hayley Williams	-	94
+126	Wish You Were Here	-	Avril Lavigne	-	92
+127	We No Speak Americano	-	Yolanda Be Cool & DCUP	-	90
+128	Pingos de amor (Ao vivo)	-	Papas da Língua	-	88
+129	Fuck You!	-	Cee Lo Green	-	87
+130	Universo	-	Razzy	-	85
+131	Definitely Sure	-	Double You	-	84
+132	Worth It	-	Wanessa	-	83
+133	Diga que me quer	-	Hóri	-	82
+134	Moving	-	Macaco Feat. Seu Jorge	-	81
+135	Será você?	-	CW7	-	80
+136	Ainda bem	-	Marisa Monte	-	79
+137	Pumped Up Kicks	-	Foster The People	-	75
+138	Walk	-	Foo Fighters	-	75
+139	Hollywood Tonight	-	Michael Jackson	-	74
+140	Set Fire To The Rain	-	Adele	-	72
+141	Skyscraper	-	Demi Lovato	-	69
+142	Entre teus dedos	-	Reação em Cadeia	-	69
+143	Filme que eu nunca vi	-	CPM 22	-	68
+144	Animal	-	Neon Trees	-	68
+145	Alors On Danse	-	Stromae	-	68
+146	Bottoms Up	-	Trey Songz Feat. Nicki Minaj	-	65
+147	Great Times	-	Will.i.am	-	63
+148	That's My Name 2010	-	Akcent Feat. Lora	-	63
+149	Danza Kuduro	-	Don Omar Feat. Lucenzo	-	62
+150	Monster	-	Paramore	-	59
+151	Meteoro (Mr. Jam Remix)	-	Luan Santana	-	58
+152	Alejandro	-	Lady GaGa	-	58
+153	Se você pensa	-	Pitty	-	57
+154	Hey!	-	Stevens	-	57
+155	Adrenalina	-	Luan Santana	-	56
+156	Em busca da fé	-	Chimarruts	-	55
+157	Do jeito que eu sou	-	Rebeldes	-	55
+158	Com ou sem você	-	Strike	-	55
+159	Miracle Worker	-	SuperHeavy	-	52
+160	Quem vai, vai	-	Forfun	-	51
+161	Marry The Night	-	Lady GaGa	-	50
+162	Adjustable	-	John Kip	-	50
+163	Breaking News	-	Michael Jackson	-	50
+164	Memories	-	David Guetta Feat. Kid Cudi	-	50
+165	Hits Me Like A Rock	-	Cansei de Ser Sexy	-	49
+166	Super Bass	-	Nicki Minaj	-	48
+167	Tantinho	-	Carlinhos Brown	-	48
+168	Angel	-	Akon	-	48
+169	Papi	-	Jennifer Lopez	-	47
+170	Abra a felicidade 2011	-	Di Ferrero	-	47
+171	I'm In Love	-	Alex Gaudino Feat. Maxine Ashley	-	47
+172	Little Bad Girl	-	David Guetta Feat. Taio Cruz & Ludacris	-	46
+173	Somebody To Love	-	Justin Bieber Feat. Usher	-	46
+174	Take It Off	-	Ke$ha	-	46
+175	Happiness	-	Alexis Jordan	-	45
+176	Hotel	-	Sabonetes	-	45
+177	Tudo que eu sinto	-	CW7	-	44
+178	Michael Jackson Is Not Dead	-	Spankox	-	44
+179	Só os loucos sabem	-	Charlie Brown Jr.	-	44
+180	Rehab	-	Amy Winehouse Feat. Jay-Z	-	43
+181	Gettin' Over You	-	David Guetta & Chris Willis Feat. Fergie & LMFAO	-	43
+182	Hey, Soul Sister	-	Train	-	41
+183	Princess Of China	-	Coldplay Feat. Rihanna	-	40
+184	Viva	-	Sevenlox part. Claus & Vanessa	-	40
+185	Quem não quer sou eu	-	Seu Jorge	-	39
+186	Sun In My Eyes (MJ Cool Remix)	-	Myomi	-	39
+187	This Is My Life	-	Edward Maya	-	39
+188	Odeio	-	Manu Gavassi	-	38
+189	Dreams	-	Lorena Simpson	-	38
+190	Loca People	-	Sak Noel	-	37
+191	Black And Yellow	-	Wiz Khalifa	-	37
+192	I'll Help You Stay	-	John Kip	-	36
+193	One (Your Name)	-	Swedish House Mafia Feat. Pharell Williams	-	36
+194	Amazin'	-	Inna	-	36
+195	Vivendo & aprendendo	-	Capital Inicial	-	35
+196	One Time	-	Justin Bieber	-	35
+197	Na medida certa	-	CPM 22	-	34
+198	Good Life	-	OneRepublic	-	34
+199	What A Feeling	-	Alex Gaudino Feat. Kelly Rowland	-	34
+200	Só rezo	-	NX Zero	-	34
+201	Dirty Dancer	-	Enrique Iglesias	-	33
+202	Trilhos fortes	-	Cláudia Leitte	-	33
+203	Hey You (Release Your Love)	-	Spyzer	-	32
+204	Meu coração (Ao vivo)	-	Arnaldo Antunes part. Edgard Scandurra	-	31
+205	Agora eu sei	-	Caps Lock	-	31
+206	Hey (Nah Neh Nah)	-	Milk & Sugar Vs. Vaya Con Dios	-	31
+207	Beautiful Monster	-	Ne-Yo	-	30
+208	Brighter Than The Sun	-	Colbie Caillat	-	29
+209	Problemas	-	Ana Carolina	-	29
+210	La Noche	-	Desaparecidos	-	29
+211	Moment 4 Life	-	Nicki Minaj Feat. Drake	-	29
+212	Billionaire	-	Travie McCoy Feat. Bruno Mars	-	29
+213	Down On Me	-	Jeremih Feat. 50 Cent	-	28
+214	Você me faz tão bem	-	In Box	-	28
+215	Bounce	-	Calvin Harris Feat. Kelis	-	27
+216	Dançar com você	-	Claus & Vanessa	-	27
+217	I Need A Doctor	-	Dr. Dre Feat. Eminem & Skylar Grey	-	27
+218	Quando a chuva cai	-	Reação em Cadeia	-	26
+219	21st Century Girl	-	Willow Smith	-	26
+220	I Like How It Feels	-	Enrique Iglesias Feat. Pitbull	-	25
+221	Under Cover Of Darkness	-	The Strokes	-	25
+222	Domino	-	Jessie J	-	24
+223	Velha e louca	-	Mallu Magalhães	-	24
+224	Desejos do mar	-	Armandinho	-	23
+225	Todos	-	Macaco Feat. Marcelo D2	-	22
+226	It Girl	-	Jason DeRulo	-	22
+227	Man Down	-	Rihanna	-	22
+228	Playing God	-	Paramore	-	22
+229	Seu	-	Scarcéus	-	21
+230	Glitter de principiante	-	Kid Abelha	-	21
+231	Família	-	Planta & Raiz	-	21
+232	Take A Chance	-	Filipe Guerra Feat. LuGuessa	-	21
+233	California Gurls	-	Katy Perry Feat. Snoop Dogg	-	21
+234	The Best Thing About Me Is You	-	Ricky Martin Feat. Joss Stone	-	20
+235	Summer Love	-	Claus & Vanessa	-	19
+236	Hangover	-	Taio Cruz Feat. Flo Rida	-	19
+237	Stand (You're Gonna Run Again)	-	Lenny Kravitz	-	19
+238	What You Want	-	Evanescence	-	19
+239	Um beijo	-	Luan Santana	-	19
+240	Rope	-	Foo Fighters	-	19
+241	Give A Little More	-	Maroon 5	-	19
+242	Just A Kiss	-	Lady Antebellum	-	18
+243	In The Dark	-	Dev	-	18
+244	Daqui pra frente	-	NX Zero	-	18
+245	Ô ô	-	Marcelo Camelo	-	18
+246	Power Of Love	-	DJ Tom Hopkins Feat. Samara	-	18
+247	OMG	-	Usher Feat. Will.I.Am	-	18
+248	Party	-	Beyoncé Feat. Andre 3000	-	17
+249	Far L'Amore	-	Bob Sinclar & Rafaella Carrà	-	17
+250	Pyro	-	Kings Of Leon	-	17
+251	Ai, se eu te pego (DJ Cuca Remix)	-	Michel Teló	-	16
+252	Sun Is Up	-	Inna	-	16
+253	Raise Your Glass	-	P!nk	-	16
+254	Aprender a voar	-	Replace	-	15
+255	Primeira lembrança	-	Fake Number	-	15
+256	Iridescent	-	Linkin Park	-	15
+257	Amar não é pecado	-	Luan Santana	-	15
+258	Sempre comigo	-	LunaBlu part. Lucas Silveira	-	15
+259	When You Got A Good Thing	-	Lady Antebellum	-	15
+260	Right Thru Me	-	Nicki Minaj	-	15
+261	Stereo Love	-	Edward Maya Feat. Alicia/Vika Jigulina	-	15
+262	Dança Kuduro	-	Daddy Kall part. Latino	-	14
+263	Everybody	-	Spyzer	-	14
+264	Telling The World	-	Taio Cruz	-	14
+265	Let's Be Friends	-	Emily Osment	-	14
+266	You Are The One	-	Tommy Love Feat. Paula Bencini	-	13
+267	The Show Goes On	-	Lupe Fiasco	-	13
+268	Viva	-	Emicida	-	13
+269	Hey, Playboy	-	Brothers Of Brazil	-	13
+270	Te amo	-	Vanessa da Mata	-	13
+271	No Love	-	Eminem Feat. Lil Wayne	-	13
+272	Marry Me	-	Train	-	13
+273	Coração (Corazón)	-	Jota Quest	-	12
+274	Alegria compartilhada	-	Forfun	-	12
+275	Who Says	-	Selena Gomez & The Scene	-	12
+276	My Passion	-	Akcent	-	12
+277	Palavras cantadas	-	Pablo Dominguez	-	12
+278	Água de oceano (Versão Reggae)	-	Victor & Léo	-	12
+279	Vamos comemorar	-	Capital Inicial	-	12
+280	Acelera aê	-	Ivete Sangalo	-	12
+281	Waiting For The End	-	Linkin Park	-	12
+282	If I Could Fall (Vicenzo Callea Remix)	-	Double You	-	11
+283	Just Call Me	-	Sevenlox	-	11
+284	Promises, Promises	-	Incubus	-	11
+285	Feel Alive	-	Filipe Guerra Feat. Nalaya	-	11
+286	Right There	-	Nicole Scherzinger Feat. 50 Cent	-	11
+287	Jeito livre	-	Rancore	-	11
+288	Sometimes	-	Dim Chris Feat. Amanda Wilson	-	11
+289	Somewhere Over The Rainbow	-	Israel Kamakawiwo'ole	-	11
+290	Hey You	-	Jonas Brothers	-	11
+291	DNA	-	Wanessa	-	10
+292	Give Me All Your Love	-	Madonna	-	10
+293	Newborn	-	Joss Stone	-	10
+294	Up All Night	-	Blink 182	-	10
+295	Positive Vibration	-	Zé Caetano	-	10
+296	Ready 2 Go	-	Martin Solveig Feat. Kele	-	10
+297	Coming Home	-	Diddy-Dirty Money Feat. Skylar Gray	-	10
+298	Dois olhos verdes	-	RPM	-	10
+299	(I Like) The Way You Love Me	-	Michael Jackson	-	10
+300	Vizinha	-	Seu Jorge	-	9
+301	Walkin' On Air	-	 	-	9
+302	If I Had A Gun	-	Noel Gallagher	-	9
+303	Tonight, Tonight	-	Hot Chelle Rae	-	9
+304	Rolling In The Deep (Live)	-	Linkin Park	-	9
+305	Oh, não!	-	Vivendo do Ócio	-	9
+306	Disque sim	-	Link'ed	-	9
+307	Tudo vai dar certo	-	Thiago Varzé	-	9
+308	Calling Out Your Name	-	James Blunt	-	9
+309	Look At Me Now	-	Chris Brown Feat. Lil Wayne & Busta Rhymes	-	9
+310	Deuces	-	Chris Brown Feat. Tyga & Kevin McCall	-	9
+311	Astronaut	-	Simple Plan	-	8
+312	Onde estiver	-	Mr. Gyn	-	8
+313	Fade Into Darkness	-	Avicii	-	8
+314	Sem limite	-	Danni Carlos	-	8
+315	Farsa (Ao vivo)	-	Nila Branco	-	8
+316	If I Die Young	-	The Band Perry	-	8
+317	Bodies	-	Cee Lo Green	-	8
+318	Quase sem querer (Ao vivo)	-	Maria Gadú	-	8
+319	Na varanda da liz	-	Tiê	-	8
+320	O vento certo	-	O Rodo	-	8
+321	Glad You Came	-	The Wanted	-	7
+322	Headlines	-	Drake	-	7
+323	Stereo (Ao vivo)	-	Preta Gil	-	7
+324	Por um fio (Hey Babe)	-	Leela	-	7
+325	Don't Let Me Fall	-	B.o.B	-	7
+326	Alergico	-	Anahí Feat. Renne	-	7
+327	One In A Million	-	Ne-Yo	-	7
+328	Stay The Night	-	James Blunt	-	7
+329	Tudo me faz lembrar você	-	Jota Quest	-	7
+330	Countdown	-	Beyoncé	-	6
+331	As palavras	-	Vanessa da Mata	-	6
+332	Called Out In The Dark	-	Snow Patrol	-	6
+333	Não custa tentar	-	Chilli Cats	-	6
+334	Lluvia Al Corazón	-	Maná	-	6
+335	She's Got Nothing On (But The Radio)	-	Roxette	-	6
+336	Com certeza (Versão Dub)	-	Planta & Raiz	-	5
+337	Erga-se	-	AR 21	-	5
+338	Quando estou do seu lado	-	Rebeldes	-	5
+339	Rain Over Me	-	Pitbull Feat. Marc Anthony	-	5
+340	You Da One	-	Rihanna	-	5
+341	Música sem nome	-	Tópaz	-	5
+342	Hey Baby (Drop It On The Floor)	-	Pitbull Feat. T-Pain	-	5
+343	Aline	-	Valetes	-	5
+344	Toda forma de poder/Banco (Ao vivo)	-	Pouca Vogal	-	5
+345	Beautiful Dangerous	-	Slash Feat. Fergie	-	5
+346	Inimigo invisível 0.2	-	NX Zero part. Kurupt, PMC, Marcelo D2 & Mi	-	5
+347	Raiou	-	Planta & Raiz	-	5
+348	Use Somebody	-	Kings Of Leon	-	5
+349	Shake It Out	-	Florence + The Machine	-	4
+350	Dona do meu coração	-	Catedral	-	4
+351	As loucas	-	Rita Lee	-	4
+352	Planto	-	Rancore	-	4
+353	Me despeço	-	In Box	-	3
+354	Tudo errado	-	Valetes	-	3
+355	Lucinha	-	Bidê ou Balde	-	3
+356	Meu corpo quer você (Ao vivo)	-	Naldo & Preta Gil	-	3
+357	The Only One	-	Ammanda	-	3
+358	Quanto ao tempo (Ao vivo)	-	Paralamas do Sucesso	-	3
+359	Demodê	-	Maglore	-	3
+360	Castle Walls	-	T.I. Feat. Christina Aguilera	-	3
+361	Night Is Young	-	Nelly Furtado	-	3
+362	Can't Be Friends	-	Trey Songz	-	3
+363	Saudade	-	Pablo Dominguez	-	3
+364	Cooler Than Me	-	Mike Posner	-	3
+365	Baby	-	Justin Bieber Feat. Ludacris	-	3
+366	Need You Now	-	Lady Antebellum	-	3
+367	International Love	-	Pitbull Feat. Chris Brown	-	2
+368	Mr. Know It All	-	Kelly Clarkson	-	2
+369	Não	-	Patrícia Mellodi	-	2
+370	Just In Love	-	Joe Jonas	-	2
+371	Otis	-	Jay-Z & Kanye West Feat. Otis Redding	-	2
+372	Presença hecatombe	-	Jay Vaquer	-	2
+373	The Bay	-	Metronomy	-	2
+374	The Beat Goes On	-	Beady Eye	-	2
+375	Outlaw	-	50 Cent	-	2
+376	Got 2 Luv U	-	Sean Paul Feat. Alexis Jordan	-	2
+377	Doncamatic	-	Gorillaz Feat. Daley	-	2
+378	Please Don't Go	-	Mike Posner	-	2
+379	Eu sei que eu sou bonita	-	Daddy Kall	-	2
+380	Not The Right Day	-	Lu Alone	-	2
+381	Christmas Lights	-	Coldplay	-	2
+382	Bichos escrotos (Ao vivo)	-	Nando Reis & Os Infernais	-	2
+383	Luz do farol	-	Claus & Vanessa	-	2
+384	Glamour tropical	-	Natiruts	-	2
+385	I Run To You	-	Lady Antebellum	-	2
+386	Descontrolada	-	Sabonetes	-	1
+387	Eu sou pedreiro	-	Pedra Letícia	-	1
+388	Levels	-	Avicii	-	1
+389	Obrigado tempestade	-	Hateen	-	1
+390	Meu jeito	-	Myllena	-	1
+391	Magic	-	B.o.B Feat. Rivers Cuomo	-	1
+392	Você me encantou demais	-	Natiruts	-	1
+393	Waka Waka (Time For Africa)	-	Shakira Feat. Freshly Ground	-	1
+394	I Like It	-	Enrique Iglesias Feat. Pitbull	-	1

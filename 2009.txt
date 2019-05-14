@@ -1,0 +1,497 @@
+1 - Halo - Beyoncé
+2 - Poker Face - Lady GaGa
+3 - Mad - Ne-Yo
+4 - Hush Hush (Remix) - The Pussycat Dolls
+5 - Cartas pra você - NX Zero
+6 - Boom Boom Pow - Black Eyed Peas
+7 - Rehab - Rihanna Feat. Justin Timberlake
+8 - I Hate This Party - The Pussycat Dolls
+9 - I'm Yours - Jason Mraz
+10 - Sutilmente - Skank
+11 - I Gotta Feelin' - Black Eyed Peas
+12 - Beautiful ou Beautiful (Remix) - Akon Feat. Colby O'Donis & Kardinal Offishall ou Akon Feat. Negra Li
+13 - Vem andar comigo - Jota Quest
+14 - If I Were A Boy - Beyoncé
+15 - Just Dance - Lady GaGa Feat. Colby O'Donis
+16 - Thinking Of You - Katy Perry
+17 - Versos simples (Ao vivo) - Chimarruts
+18 - Single Ladies (Put A Ring On It) - Beyoncé
+19 - Circus - Britney Spears
+20 - Garota radical - Cine
+21 - Passos escuros - Hevo84
+22 - Burguesinha (Deeplick Remix) - Seu Jorge
+23 - If U Seek Amy - Britney Spears
+24 - Kiss Me Thru The Phone - Soulja Boy (Tell'Em) Feat. Sammie
+25 - Minha paz - Glória
+26 - LoveGame - Lady GaGa
+27 - Fly (Meu momento) - Wanessa & Ja Rule
+28 - Me adora - Pitty
+29 - I Know You Want Me (Calle Ocho) - Pitbull
+30 - Miss Independent - Ne-Yo
+31 - Love, Sex, Magic - Ciara Feat. Justin Timberlake
+32 - Celebration - Madonna
+33 - Diva - Beyoncé
+34 - Súplica cearense - O Rappa
+35 - Te amo - Rihanna
+36 - Lucky - Jason Mraz & Colbie Caillat
+37 - Hot N' Cold - Katy Perry
+38 - Miles Away - Madonna
+39 - Desabafo - Marcelo D2
+40 - Desde quando você se foi - Fresno
+41 - Obsessed - Mariah Carey
+42 - Porque eu sei que é amor - Titãs
+43 - Jai Ho! (You Are My Destiny) - A. R. Rahman & The Pussycat Dolls Feat. Nicole Scherzinger
+44 - Right Now (Na Na Na) - Akon
+45 - Pessoal, particular (Remix) - Seu Jorge
+46 - Daqui pra frente - NX Zero
+47 - When Love Takes Over - David Guetta Feat. Kelly Rowland
+48 - Pra ela (Ao vivo) - Chimarruts
+49 - Ibiza - Desaparecidos Vs. Walter Master J
+50 - No veneno - Strike
+51 - Pode acreditar (Meu laiá laiá) - Marcelo D2 part. Seu Jorge
+52 - Infinity 2008 - Guru Josh Project
+53 - Right Round - Flo Rida Feat. Ke$ha
+54 - She Wolf (La Loba) - Shakira
+55 - Seis e trinta - Jota Quest
+56 - Me encontra - Charlie Brown Jr.
+57 - The Climb - Miley Cyrus
+58 - Alguém que te faz sorrir - Fresno
+59 - Ego - Beyoncé
+60 - Broken Strings - James Morrison Feat. Nelly Furtado
+61 - Paranoid - Jonas Brothers
+62 - Sugar - Flo Rida Feat. Wynter
+63 - Sober - Pink
+64 - Groove bom - Natiruts
+65 - Forever - Chris Brown
+66 - Podia ser - Agnela
+67 - Dead And Gone - T. I. Feat. Justin Timberlake
+68 - I'm So Paid - Akon Feat. Lil Wayne & Young Jeezy
+69 - A lhe esperar - Paralamas do Sucesso
+70 - Chanson Du Soleil (Sun Is Coming Up) - DJ Memê part. Rogério Flausino & Cidália Castro ou DJ Memê Feat. Gavin Bradley
+71 - Already Gone - Kelly Clarkson
+72 - Love Story - Taylor Swift
+73 - I Want To Know What Love Is? - Mariah Carey
+74 - Meu sonho - Paralamas do Sucesso
+75 - Womanizer - Britney Spears
+76 - Let It Rock - Kevin Rudolf Feat. Lil Wayne
+77 - O que se leva da vida... - Tulio Dek part. Paulo Miklos
+78 - Sweet Dreams - Beyoncé
+79 - Magnificent - U2
+80 - Raçaman - Natiruts
+81 - O inferno são os outros (Acústico) - Detonautas
+82 - Fidelity - Regina Spektor
+83 - Paparazzi - Lady GaGa
+84 - Knock You Down - Keri Hilson Feat. Kenny West & Ne-Yo
+85 - Fallin' For You - Colbie Caillat
+86 - Ainda gosto dela - Skank part. Negra Li
+87 - Sexy Bitch/Sexy Chick - David Guetta Feat. Akon
+88 - Live Your Life - T. I. Feat. Rihanna
+89 - I Don't Know Why - Moony
+90 - Human - The Killers
+91 - Espero a minha vez - NX Zero
+92 - Never Gonna Be Alone - Nickelback
+93 - Day 'N' Nite (Crookers Remix) - Kid Cudi
+94 - Heartless - Kanye West
+95 - Fogo (Ao vivo) - Capital Inicial
+96 - 1 minuto (Remix) - D' Black & Negra Li
+97 - Viva La Vida - Coldplay
+98 - Tudo passa - Tulio Dek part. Di Ferrero
+99 - 3 (Three) - Britney Spears
+100 - What Them Girls Like - Ludacris Feat. Chris Brown & Sean Garrett
+101 - Underneath - DJ Antoine
+102 - Meet Me Halfway - Black Eyed Peas
+103 - Entreolhares (Remix) - Ana Carolina & John Legend
+104 - Bye Bye - Mariah Carey Feat. Jay-Z
+105 - Carry You Home - James Blunt
+106 - Meu mundo é o barro - O Rappa
+107 - O jogo virou - Strike
+108 - Decode - Paramore
+109 - Hold My Hand - Akon Feat. Michael Jackson
+110 - Radar - Britney Spears
+111 - New Divide - Linkin Park
+112 - Cry For You - September
+113 - Use Somebody - Kings Of Leon
+114 - So What - Pink
+115 - Destiny - DJ Tom Hopkins Feat. Samara
+116 - Disturbia - Rihanna
+117 - Midnight Bottle - Colbie Caillat
+118 - Parecia estar - Stevens
+119 - LaLa Song - Bob Sinclar Feat. Master Gee & Wonder Mike (Sugarhill Gang)
+120 - Horizonte (DJ Tom Hopkins Remix) - Cláudia Leitte
+121 - Never Ever - Ciara Feat. Young Jeezy
+122 - Recomeçar - Restart
+123 - Antes de você - Titãs
+124 - Mulher de fases (Ao vivo) - Capital Inicial
+125 - Pára-raio - Skank
+126 - Nobody - Ne-Yo
+127 - Não é proibido (Deeplick Remix) - Marisa Monte
+128 - One Step At A Time - Jordin Sparks
+129 - Surround Me With Your Love - 3-11 Porter
+130 - Fire Burning (Remix) - Sean Kingston Feat. Pitbull
+131 - Ainda não passou - Nando Reis & Os Infernais
+132 - I Feel Happy (DJ Tom Hopkins Remix) - House Liberty
+133 - Russian Roulette - Rihanna
+134 - Amado (Deeplick Remix) - Vanessa da Mata
+135 - Down - Jay Sean Feat. Lil Wayne
+136 - The Fear - Lily Allen
+137 - Beijar na boca (Deeplick Remix) - Cláudia Leitte
+138 - Lies - McFly
+139 - Bust It Baby (Pt. 2) - Plies Feat. Ne-Yo
+140 - O que você sempre quis - Stevens
+141 - 21 Guns - Green Day
+142 - Closer - Ne-Yo
+143 - I Stay In Love - Mariah Carey
+144 - Dance With Me - Saint Feat. M. D. P.
+145 - Lovers In Japan - Coldplay
+146 - Crack A Bottle - Eminem Feat. Dr. Dre & 50 Cent
+147 - Give It 2 Me - Madonna
+148 - Leave Out All The Rest (Live) - Linkin Park
+149 - Party In The USA - Miley Cyrus
+150 - Mais uma vez (Ao vivo) - Marisa Monte
+151 - That's What You Get - Paramore
+152 - This Is It - Michael Jackson
+153 - Get On Your Boots - U2
+154 - Agora eu já sei - Ivete Sangalo
+155 - Hóstia - O Rappa
+156 - Oba, oba - Papas da Língua
+157 - Brand New Day - DJ Filipe Guerra Feat. Lorena Simpson
+158 - Estranho no espelho - CPM 22
+159 - Você por perto - Edu Ribeiro part. Charlie Brown Jr.
+160 - Hotel Room Service (Remix) - Pitbull Feat. Nicole Scherzinger
+161 - Tudo outra vez - Glória
+162 - Untouched - The Veronicas
+163 - Vermelho (Ao vivo) - Vanessa da Mata
+164 - Tomorrow Can Wait - David Guetta
+165 - Bad Romance - Lady GaGa
+166 - Pássaros (Deeplick Remix) - Cláudia Leitte
+167 - Release Me - Agnes
+168 - Dangerous - Kardinal Offishall Feat. Akon
+169 - This Is Me - Demi Lovato Feat. Joe Jonas (Camp Rock)
+170 - Monday - Carlo Dall'anese & Fabio Castro
+171 - Me odeie (Ao vivo) - Reação em Cadeia
+172 - Redenção - Fresno
+173 - Bem ou mal - NX Zero part. Tulio Dek
+174 - Hatin' On The Club - Rihanna Feat. The Dream
+175 - It's Alright, It's OK - Ashley Tisdale
+176 - Lost! (Remix) - Coldplay Feat. Jay-Z
+177 - Stereo Love - Edward Maya Feat. Alicia/Vika Jigulina
+178 - No Stress - Laurent Wolf
+179 - Set Me Free - House Boulevard Feat. Samara
+180 - De agora em diante - Planta & Raiz
+181 - My Life Would Suck Without You - Kelly Clarkson
+182 - Sorri, sou rei - Natiruts part. Cláudia Leitte
+183 - Listen - Altar Feat. Amannda
+184 - Run This Town - Jay-Z Feat. Rihanna & Kanye West
+185 - Falling In Love - McFly
+186 - Gives You Hell - The All-American Rejects
+187 - Nós vamos invadir sua praia - Pitty
+188 - Scared Of Me - Fedde Le Grand Feat. Mitch Crown
+189 - This Is Your Life - 7th Heaven Feat. Banderas
+190 - Você - Indenso
+191 - Balada do amor perdido - Papas da Língua
+192 - Let Me Live (Não me leve a mal) - Wanessa
+193 - He Could Be The One - Hannah Montana (Miley Cyrus)
+194 - Cadê Dalila? - Ivete Sangalo
+195 - Autonomia - Dead Fish
+196 - Sem saída - Thimy
+197 - Burnin' Up - Jonas Brothers
+198 - Give It To Me - Alexxa
+199 - Vem morar comigo - Cidade Negra
+200 - Move For Me - Kaskade & Deadmau5
+201 - Get Away - Michael Beltran
+202 - I'll Go Crazy If I Don't Go Crazy Tonight - U2
+203 - Laughing With - Regina Spektor
+204 - Breathe Gentle - Tiziano Ferro Feat. Kelly Rowland
+205 - Know Your Enemy - Green Day
+206 - Quanto ao tempo - Ivete Sangalo part. Carlinhos Brown
+207 - Tchubaruba - Mallu Magalhães
+208 - Empire State Of Mind - Jay-Z Feat. Alicia Keys
+209 - Livre como um Deus - Nando Reis & Os Infernais
+210 - Don't Trust Me (Remix) - 3OH!3 Feat. Kid Cudi
+211 - Work - DJ Antoine Vs. Player & Remady
+212 - Take A Bow - Rihanna
+213 - You Belong With Me - Taylor Swift
+214 - American Boy - Estelle Feat. Kanye West
+215 - Million Dollar Bill - Whitney Houston
+216 - Please Don't Leave Me - Pink
+217 - Nada por mim (Ao vivo) - Paralamas do Sucesso & Legião Urbana
+218 - Yes, We Can - House Music United
+219 - Se você quiser - Cine
+220 - Use Somebody (Acoustic) - Paramore
+221 - Teu lugar - Marcelo Mira
+222 - Memory (Klaas Remix) - Fragma
+223 - Gosto de te olhar - Banda Marauê
+224 - Insônia - Mariana Rios
+225 - Walk The Line (Remix) - Laurent Wolf
+226 - No Superstar - Player & Remady
+227 - Monstro invisível - O Rappa
+228 - De Fact - T & F Vs. Moltosugo Feat. Moony
+229 - Summer At Eureka - Pete Murray
+230 - Waking Up In Vegas - Katy Perry
+231 - We Made You - Eminem
+232 - Never Knew I Needed - Ne-Yo
+233 - Doesn't Mean Anything - Alicia Keys
+234 - Um dia desses (Ao vivo) - Adriana Calcanhoto
+235 - The Lovers Are Losing - Keane
+236 - Everytime We Touch - David Guetta Feat. Chris Willis
+237 - Conselho (Deeplick Remix) - Marcelo Mira part. Marcelo D2
+238 - Whatever You Like - T. I.
+239 - Sorrindo - Aliados
+240 - You Could Be Mine - Electrique
+241 - Tudo de bom - Maskavo
+242 - Inspiration - Kasino
+243 - Mina do condomínio (Deeplick Remix) - Seu Jorge
+244 - Pjanoo - Erick Prydz
+245 - Único olhar - Jota Quest
+246 - Nem vem que não tem (Ao vivo) - Marcelo D2
+247 - Viver dias de sol - Charlie Brown Jr.
+248 - Looking For Paradise - Alejandro Sanz Feat. Alicia Keys
+249 - What A Wonderful World - Axwell & Bob Sinclair Feat. Ron Carroll
+250 - Good Girls Go Bad - Cobra Starship Feat. Leighton Meester
+251 - I Feel So Free (DJ Joe K Remix) - Spyzer Project
+252 - Brother - Pearl Jam
+253 - Índios (Ao vivo) - Biquíni Cavadão & Tico Santa Cruz
+254 - Vem pra cá - Papas da Língua
+255 - Dance agora - Cachorro Grande
+256 - Besos Faciles (Love Show) - Sonohra
+257 - Just Stand Up! - Artists Stand Up To Cancer
+258 - Fuck You - Lily Allen
+259 - Não vá - Rodrigo Santos part. Cidade Negra
+260 - No You Girls - Franz Ferdinand
+261 - Sofá emprestado - Megh Stock
+262 - Do Ya - McFly
+263 - Hey - Mitchel Musso
+264 - Shingaling - Jean Claude Ades & Vincent Thomas
+265 - As máscaras (Deeplick Remix) - Cláudia Leitte
+266 - Distance - Silicon Fly
+267 - Times Like These - Albin Myers
+268 - If Today Was Your Last Day - Nickelback
+269 - Walking On A Dream - Empire Of The Sun
+270 - Desolation Row - My Chemical Romance
+271 - Cedo ou tarde - NX Zero
+272 - Time To Pretend - MGMT
+273 - Marvin (Ao vivo) - Biquíni Cavadão
+274 - Dançando com a lua (Ao vivo) - Capital Inicial
+275 - Revolver - Madonna Feat. Lil Wayne
+276 - Did It Again - Shakira Feat. Pharrell
+277 - Haven't Met You Yet - Michael Bublé
+278 - Cant' Stop Loving You - DJ Filipe Guerra Feat. Lorena Simpson
+279 - Sex On Fire - Kings Of Leon
+280 - Beggin - Madcon
+281 - Segredo - Hori
+282 - Notion - Kings Of Leon
+283 - Blue Monday (Vandalism Remix) - Kurd Maverick
+284 - O que sinto agora (Remix) - Peleco
+285 - No Air - Jordin Sparks & Chris Brown
+286 - Só nós 2 (Acústico) - Detonautas
+287 - Hell Of A Life - T. I.
+288 - Dar certo - Valkyrias
+289 - Ilegais (Ao vivo) - Vanessa da Mata
+290 - The Boy Does Nothing - Alesha Dixon
+291 - Fiesta Loca - Desaparecidos
+292 - Disco rock - Papas da Língua
+293 - Don't Believe In Love - Dido
+294 - I Kissed A Girl - Katy Perry
+295 - Free Me - Joss Stone
+296 - Just Can't Get Enough - The Saturdays
+297 - Shine On - R. I. O.
+298 - Baby By Me - 50 Cent Feat. Ne-Yo
+299 - Crank It Up - Ashley Tisdale
+300 - Love Is Here (L'Amore) - Sonohra
+301 - No Surprise - Daughtry
+302 - Second Chance - Shinedown
+303 - Tudo sobre você - Zélia Duncan
+304 - Keep Me In Mind - Little Joy
+305 - Keeps Gettin' Better - Christina Aguilera
+306 - Killa - Cherish Feat. Yung Joc
+307 - When You Look Me In The Eyes - Jonas Brothers
+308 - Amor de primavera - Armandinho
+309 - Whatcha Say - Jason DeRulo
+310 - Chasing Pirates - Norah Jones
+311 - Going Wrong - Armin Van Buuren & DJ Shah Feat. Chris Jones
+312 - Derretendo satélites (Ao vivo) - Paula Toller
+313 - Lollipop - Lil' Wayne Feat. Static Major
+314 - 21st Century Breakdown - Green Day
+315 - Ignorance - Paramore
+316 - Teorema de Carlão (Deeplick Remix) - Pedra Letícia
+317 - Kristy, Are You Doing Okay? - The Offspring
+318 - In My Arms (Original Remix) - Kylie Minogue
+319 - Heavy Cross - The Gossip
+320 - Goodbye (Na Na Hey Hey Kiss Him Goodbye) - Kristinia DeBarge
+321 - Não pare - Cabal part. Tony Williams
+322 - Não diga - Mandala
+323 - After Party - Ozomatli
+324 - La Plata - Jota Quest
+325 - To Love Again - Alesha Dixon
+326 - Jump - Flo Rida Feat. Nelly Furtado
+327 - Bodies - Robbie Williams
+328 - Baby de Babylon - Lulu Santos
+329 - 1901 - Phoenix
+330 - Olhando pra você - Drive
+331 - It's A New Day - Will.i.am
+332 - Aonde quer chegar? - Moptop
+333 - Don't Stop The Night - Liquid Groove
+334 - Firmamento - Opinião Pública part. Toni Garrido
+335 - Fireflies - Owl City
+336 - Quanto tempo mais - Mr. Clown
+337 - O mar (Ao vivo) - Vanguart
+338 - Crying Lightning - Arctic Monkeys
+339 - Aquela música - F4ke Number
+340 - Straight Through My Heart - Backstreet Boys
+341 - Crawl - Chris Brown
+342 - Give It Up To Me - Shakira Feat. Lil Wayne & Timbaland
+343 - Kings And Queens - 30 Seconds To Mars
+344 - Escolha já o seu nerd - Os Seminovos
+345 - Nada por mim - Paula Toller
+346 - Me libertei - Toni Garrido
+347 - Spiralling - Keane
+348 - Take Back The City - Snow Patrol
+349 - Toca's Miracle 2008 - Fragma
+350 - We Are Golden - Mika
+351 - Beat Again - JLS
+352 - I'll Be There (Live) - Mariah Carey & Trey Lorenz
+353 - Muro alto - ID3
+354 - Standy By Me (Playing For Change Version) - Various Artists
+355 - Scandal - Crossover Feat. Sandy Leah
+356 - Chinese Democracy - Guns N' Roses
+357 - Video Phone - Beyoncé Feat. Lady GaGa
+358 - If I Could Fall - Double You
+359 - Na base do beijo - Ivete Sangalo
+360 - Bem - Primadonna
+361 - You Know Me - Robbie Williams
+362 - The Fixer - Pearl Jam
+363 - Cinderela doida - Luka
+364 - Wash My World - Laurent Wolf Feat. Eric Carter
+365 - Let Me Be Your Fantasy - Vietz
+366 - Better In Time - Leona Lewis
+367 - That's Not My Name - The Ting Tings
+368 - Meu erro - Chimarruts
+369 - Rain - Creed
+370 - Samba Around The Clock - Brothers Of Brazil
+371 - Lento - Érika Martins part. Julieta Venegas & Jorge Villamizar
+372 - Gospel - Raul Seixas
+373 - Better On The Other Side (Tribute To Michael Jackson) - The Game Feat. Chris Brown, P. Diddy, Polow Da Don, Mario Winans, Usher & Boyz II Men
+374 - Outra porta - Liah
+375 - Heaven Is A Place On Earth - MxPx
+376 - Searching - Silicon Fly
+377 - Revolta - D' Black
+378 - Alice - Jullie
+379 - Careless Whisper - Seether
+380 - One Love - David Guetta Feat. Estelle
+381 - I Saw You Saying (Acústico) - Autoramas
+382 - Ive Brussel (Ao vivo) - Banda Moinho
+383 - Só os loucos sabem - Charlie Brown Jr.
+384 - End Of The Rainbow - September
+385 - Um dia, um adeus (Ao vivo) - Vanessa da Mata
+386 - Mistake - Moby
+387 - Pensando em você - Rafael Barreto
+388 - I Do Not Hook Up - Kelly Clarkson
+389 - Funny The Way It Is - Dave Matthews Band
+390 - Magic - Justin Timberlake
+391 - Out Of This Club - The Pussycat Dolls Feat. R. Kelly
+392 - Gotta Be Somebody - Nickelback
+393 - Aposte em mim - Paralamas do Sucesso
+394 - Medo - Pitty
+395 - Só você - Hori
+396 - Black Is Black To Decks - Milton Channels
+397 - Semáforo - Vanguart
+398 - Love, Etc. - Pet Shop Boys
+399 - So Fine - Sean Paul
+400 - Abra sua mente - Fatale
+401 - Sangue frio - Libra
+402 - Try Sleeping With A Broken Hearted - Alicia Keys
+403 - Hard - Rihanna Feat. Young Jeezy
+404 - Revolution Of Love - Lorena Simpson
+405 - Hey! (Remix) - Jullie
+406 - Ser o que sou - Matheus Herriez
+407 - Uprising - Muse
+408 - Abraços e brigas - Nenhum de Nós
+409 - I've Got Friends - Manchester Orchestra
+410 - Shut Up And Let Me Go - The Ting Tings
+411 - Top Yourself - The Raconteurs
+412 - I Don't Care - Fall Out Boy
+413 - Now Or Never - High School Musical 3
+414 - Red Label ou Ice - MC Sapão
+415 - Tanta coisa (Remix) - Paolo
+416 - Cult Logic - Miike Snow
+417 - Mama Do - Pixie Lott
+418 - My Girl - Tiago Iorc
+419 - Perdi o Tom - Fernanda Porto
+420 - Quero cantar - Faíbe
+421 - Senhor dos Passos (Remix) - Trilogia
+422 - Quando - Myllena
+423 - Fora, Mônica - Vivendo do Ócio
+424 - Wrong - Depeche Mode
+425 - De longe (Ao vivo) - Tihuana
+426 - Don't Stop The Music (Dance Remix) - Rihanna
+427 - Get Shaky - The Ian Carey Project
+428 - Me tira daqui - Glória
+429 - Brick By Boring Brick - Paramore
+430 - Como fugir de você - Banda Overblah
+431 - Presente-passado - Isabella Taviani
+432 - Freed From Desire (Remixes 2009) - Steve Forest
+433 - Todos os amigos perto de mim - Toni Garrido
+434 - Toda espera - Jorge Vercillo
+435 - Diga - Primadonna
+436 - Party People - Nelly Feat. Fergie
+437 - Tá esperando o quê? (Maxpop Remix) - Jammil & Uma Noites
+438 - Peace Song - Bob Sinclar Feat. Stevie Edwards
+439 - Overcome - Creed
+440 - Tédio - Vinny
+441 - Candy - Paolo Nutini
+442 - The Underdog - Spoon
+443 - Dentro - Ana Carolina
+444 - Rockets - Simple Minds
+445 - Sem cais - Caetano Veloso
+446 - Stand By Me - Seal
+447 - Black Heart Inertia - Incubus
+448 - Hey You - 311
+449 - Old Enough - The Raconteurs
+450 - Outra vida - Armandinho
+451 - Cheetah Love - The Cheetah Girls
+452 - Lucid Dreams - Franz Ferdinand
+453 - Tik-Tok - Ke$ha
+454 - Fly High - Shaggy Feat. Gary "Nesta" Pine
+455 - White Robe - t.A.T.u.
+456 - 11th Dimension - Julian Casablancas
+457 - Espero você voltar - Fields
+458 - Ashtray Heart - Placebo
+459 - I'd Come For You - Nickelback
+460 - Step To The Plate - Bennson
+461 - No One - Alicia Keys
+462 - Old Mind - El Niño
+463 - Be On You - Flo Rida Feat. Ne-Yo
+464 - Beautiful - Eminem
+465 - Coming Up Easy - Paolo Nutini
+466 - My Baby Left Me - Rox
+467 - Em plena lua de mel - Pedra Letícia
+468 - Brand New Start - Little Joy
+469 - Algum dia (Ao vivo) - Capital Inicial
+470 - Bombando em Bagdá - Supergalo
+471 - Camioneta zera - Pedra Letícia
+472 - I'm Outta Time - Oasis
+473 - Sonhos (Ao vivo) - Paula Toller
+474 - Porta da favela - Cidade Negra
+475 - Rádio Pirata - Hevo84
+476 - Beat On Repeat - Jet
+477 - Carolyna - Melanie C
+478 - Great Lakes - Telekinesis!
+479 - Tonight's Today - Jack Peñate
+480 - Wheels - Foo Fighters
+481 - Um dia de sol - Paulo Ricardo
+482 - Last One To Die - Rancid
+483 - The Best Revenge - The Fischerspooner
+484 - Forgive Me - Leona Lewis
+485 - Seu pensamento - Adriana Calcanhoto
+486 - Um dia de domingo (Ao vivo) - Celso Fonseca & Ana Carolina
+487 - Inferno - Nação Zumbi
+488 - Serão extra - Agnela
+489 - Dois - Tiê
+490 - Eu nasci há dez mil anos atrás - Nando Reis
+491 - Get Up! - 50 Cent
+492 - Carry Out - Timbaland Feat. Justin Timberlake
+493 - Coyotes - Jason Mraz
+494 - Meet Me On The Equinox - Death Cab For Cutie
+495 - New Perspective - Panic! At The Disco
+496 - Replay - Iyaz
+497 - Undisclosed Desires - Muse
