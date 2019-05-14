@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1528665920 source:c:\users\hugo-m182\desktop\estudos\computacao\codeblocks\sorteialinhadearquivo\arquivo_escrever.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1529281490 source:c:\users\hugo-m182\desktop\estudos\computacao\codeblocks\sorteialinhadearquivo\arquivo_leitura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1528553581 source:c:\users\hugo-m182\desktop\estudos\computacao\codeblocks\sorteialinhadearquivo\principal.c
+	<stdio.h>
+	"Arquivo_Comparar.c"
+
+1528503732 c:\users\hugo-m182\desktop\estudos\computacao\codeblocks\sorteialinhadearquivo\arquivo_sortear.c
+	<stdio.h>
+	<time.h>
+
+1528665903 source:c:\users\hugo-m182\desktop\estudos\computacao\codeblocks\sorteialinhadearquivo\arquivo_sortear.c
+	<stdio.h>
+	<time.h>
+
+1528553932 c:\users\hugo-m182\desktop\estudos\computacao\codeblocks\sorteialinhadearquivo\arquivo_comparar.c
+	<stdio.h>
+	<string.h>
+
+1528553886 c:\users\hugo-m182\desktop\estudos\computacao\codeblocks\sorteialinhadearquivo\arquivo_leitura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
